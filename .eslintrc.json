@@ -29,6 +29,7 @@
 			"always-multiline"
 		],
 		"padded-blocks": "off",
-		"no-return-assign": "off"
+		"no-return-assign": "off",
+		"object-curly-spacing": ["error", "never"]
 	}
 }
