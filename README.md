@@ -1,6 +1,7 @@
 # chrisEff's eslint config
 
 [![GitHub license](https://img.shields.io/github/license/chrisEff/eslint-config.svg)](https://github.com/chrisEff/eslint-config/blob/master/LICENSE)
+![npm](https://img.shields.io/npm/v/@chriseff/eslint-config)
 [![Known Vulnerabilities](https://snyk.io/test/github/chrisEff/eslint-config/badge.svg?targetFile=package.json)](https://snyk.io/test/github/chrisEff/eslint-config?targetFile=package.json)
 
 Basically just the "standard" code style with some adjusted rules here and there...
@@ -9,11 +10,12 @@ Basically just the "standard" code style with some adjusted rules here and there
 
 ```
 npm i -D @chriseff/eslint-config
-npm i -D eslint
-npm i -D eslint-plugin-import
-npm i -D eslint-plugin-node
-npm i -D eslint-plugin-promise
-npm i -D eslint-plugin-standard
+```
+
+or
+
+```
+yarn add -D @chriseff/eslint-config
 ```
 
 ## Usage
