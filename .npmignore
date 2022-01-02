@@ -1,4 +1,5 @@
 .commitlintrc.js
 .github/
 .husky/
+.lintstagedrc.js
 .releaserc.js
