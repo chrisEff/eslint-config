@@ -1,11 +1,7 @@
 {
 	"extends": "standard",
 	"rules": {
-		"indent": [
-			"error",
-			"tab",
-			{"SwitchCase": 1}
-		],
+		"indent": ["error", "tab", { "SwitchCase": 1 }],
 		"no-tabs": "off",
 		"no-multiple-empty-lines": "off",
 		"no-trailing-spaces": [
@@ -24,10 +20,7 @@
 				"mode": "minimum"
 			}
 		],
-		"comma-dangle": [
-			"error",
-			"always-multiline"
-		],
+		"comma-dangle": ["error", "always-multiline"],
 		"padded-blocks": "off",
 		"no-return-assign": "off"
 	}
