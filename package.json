@@ -19,11 +19,6 @@
 		"url": "https://github.com/chrisEff/eslint-config/issues"
 	},
 	"homepage": "https://github.com/chrisEff/eslint-config#readme",
-	"config": {
-		"commitizen": {
-			"path": "@commitlint/cz-commitlint"
-		}
-	},
 	"dependencies": {
 		"eslint": "^8.5.0",
 		"eslint-config-standard": "^16.0.3",
