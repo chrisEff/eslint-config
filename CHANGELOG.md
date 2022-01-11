@@ -1,3 +1,16 @@
+### 3.0.1 (2022-01-11)
+
+
+### Documentation
+
+* add npm badge + revise installation instructions 97c03c4
+
+
+### Build System and Dependencies
+
+* add yarn.lock to git b1570b5
+* update dependencies 2fbb52d
+
 # [3.0.0](https://github.com/chrisEff/eslint-config/compare/v2.1.0...v3.0.0) (2021-12-30)
 
 
