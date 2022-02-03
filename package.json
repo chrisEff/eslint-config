@@ -3,22 +3,22 @@
 	"version": "3.0.2",
 	"description": "My own preferred eslint code style.",
 	"main": "index.js",
+	"author": "Christian F",
+	"license": "MIT",
+	"homepage": "https://github.com/chrisEff/eslint-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chrisEff/eslint-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/chrisEff/eslint-config/issues"
+	},
 	"scripts": {
 		"prepare": "husky install",
 		"cm": "git-cz",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"semantic-release": "semantic-release"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/chrisEff/eslint-config.git"
-	},
-	"author": "Christian F",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/chrisEff/eslint-config/issues"
-	},
-	"homepage": "https://github.com/chrisEff/eslint-config#readme",
 	"dependencies": {
 		"eslint": "^8.8.0",
 		"eslint-config-standard": "^16.0.3",
