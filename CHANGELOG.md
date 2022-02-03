@@ -1,3 +1,10 @@
+### 3.0.2 (2022-02-03)
+
+
+### Build System and Dependencies
+
+* update dependencies de1b52c
+
 ### 3.0.1 (2022-01-11)
 
 
