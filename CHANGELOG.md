@@ -1,3 +1,10 @@
+### 3.0.4 (2022-03-03)
+
+
+### Build System and Dependencies
+
+* update dependencies 3586d26
+
 ### 3.0.3 (2022-02-22)
 
 
