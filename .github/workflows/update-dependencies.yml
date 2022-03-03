@@ -1,0 +1,28 @@
+name: update-dependencies
+
+on:
+  schedule:
+    - cron: "55 18 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: show time
+        run: date
+      - name: install ncu
+        run: yarn global add npm-check-updates
+      - name: install dependencies
+        run: yarn
+      - name: update dependencies in package.json
+        run: ncu -ut minor
+      - name: install updated dependencies
+        run: yarn
+      - name: commit + push
+        run: |
+          git config user.email "github-actions"
+          git config user.name "github-actions@github.com"
+          git add package.json yarn.lock
+          git commit -m "build: update dependencies"
+          git push
