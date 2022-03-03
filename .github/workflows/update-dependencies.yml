@@ -26,3 +26,5 @@ jobs:
           git add package.json yarn.lock
           git commit -m "build: update dependencies"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
