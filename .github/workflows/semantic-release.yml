@@ -28,7 +28,7 @@ jobs:
         run: yarn
 
       - name: execute semantic-release
-        run: yarn semantic-release
+        run: yarn semantic-release --dry-run # Don't do actual releases anymore since package is deprecated.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
