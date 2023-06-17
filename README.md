@@ -4,6 +4,9 @@
 ![npm](https://img.shields.io/npm/v/@chriseff/eslint-config)
 [![Known Vulnerabilities](https://snyk.io/test/github/chrisEff/eslint-config/badge.svg?targetFile=package.json)](https://snyk.io/test/github/chrisEff/eslint-config?targetFile=package.json)
 
+## ⚠️ DEPRECATED ⚠️
+If you use eslint with prettier plugin, most rules from this code style will be overridden by prettier anyway.
+
 Basically just the "standard" code style with some adjusted rules here and there...
 
 ## Installation
