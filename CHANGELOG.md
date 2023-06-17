@@ -1,3 +1,57 @@
+## 3.1.0 (2023-06-17)
+
+
+### Features
+
+* add deprecation message ee1198d
+
+
+### Build System and Dependencies
+
+* update dependencies 31015a1
+* update dependencies 73f0930
+* update dependencies bd3f640
+* update dependencies 24295e5
+* update dependencies 3e7053d
+* update dependencies 8c6f5ea
+* update dependencies a61a275
+* update dependencies 294e295
+* update dependencies 6d21dde
+* update dependencies 6074acf
+* update dependencies 17ab4b4
+* update dependencies dea8b71
+* update dependencies 2c80156
+* update dependencies b8894d7
+* update dependencies f8825e2
+* update dependencies c3afd9d
+* update dependencies d6724cd
+* update dependencies f349d34
+* update dependencies ae6ac5e
+* update dependencies f8d0d11
+* update dependencies ec85741
+* update dependencies 7231043
+* update dependencies 41b8c9d
+* update dependencies eb2c65e
+* update dependencies d24e5e2
+* update dependencies 2be927a
+* update dependencies d1ebfeb
+* update dependencies 466823e
+* update dependencies c33f0cc
+* update dependencies 5c77507
+* update dependencies 3423767
+* update dependencies a410e7f
+* update dependencies fd814df
+* update dependencies 5584ac2
+* update dependencies e34a54f
+* update dependencies 46f130c
+* update dependencies 51dd595
+* update dependencies 442bafd
+* update dependencies e02b405
+* update dependencies 8ae625f
+* update dependencies 6f59769
+* update dependencies 23d22d1
+* update dependencies ac9e085
+
 ### 3.0.4 (2022-03-03)
 
 
